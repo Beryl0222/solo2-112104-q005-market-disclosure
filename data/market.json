@@ -1,0 +1,26 @@
+[
+  {
+    "id": "market-1",
+    "kind": "announcement",
+    "period": "2026H1",
+    "text": "截至六月末，直营网点累计服务量为 18 万人次。"
+  },
+  {
+    "id": "market-2",
+    "kind": "qa",
+    "period": "2026Q2",
+    "text": "二季度直营网点服务量约 7 万人次。"
+  },
+  {
+    "id": "market-3",
+    "kind": "correction",
+    "period": "2026H1",
+    "text": "更正：上半年累计口径为 17.8 万人次，二季度单季数据不变。"
+  },
+  {
+    "id": "market-4",
+    "kind": "analyst_note",
+    "period": "unknown",
+    "text": "管理层提到新店爬坡可能影响后续增速，未给出量化预测。"
+  }
+]
