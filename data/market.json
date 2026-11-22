@@ -22,5 +22,17 @@
     "kind": "analyst_note",
     "period": "unknown",
     "text": "管理层提到新店爬坡可能影响后续增速，未给出量化预测。"
+  },
+  {
+    "id": "market-5",
+    "kind": "qa",
+    "period": "2026Q2",
+    "text": "二季度线上业务服务量约 3 万人次，直营网点口径不含线上。"
+  },
+  {
+    "id": "market-6",
+    "kind": "analyst_note",
+    "period": "2026Q3",
+    "text": "分析人员预计三季度直营网点服务量约 7.5 万人次，仅为外部推测。"
   }
 ]
